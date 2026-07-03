@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Student Solution Hub logo</title>
+  <desc id="desc">Blue circular logo with a mortarboard, laptop, and SSH lettering.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#0b1f3a"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#g)" stroke-width="14"/>
+  <circle cx="256" cy="256" r="188" fill="none" stroke="#1d4ed8" stroke-width="8" opacity="0.45"/>
+  <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 182l106-28 28 18-108 28-26-18z" stroke-width="12"/>
+    <path d="M168 202l88 48 36-12-82-47-42 11z" stroke-width="12"/>
+    <path d="M172 202v58" stroke-width="10"/>
+    <path d="M315 208h76v76h-76z" stroke-width="12"/>
+    <path d="M134 318h244l-12 58H146z" stroke-width="12"/>
+    <path d="M154 342h204" stroke-width="10"/>
+    <path d="M166 360h180" stroke-width="10"/>
+    <path d="M358 200v-28" stroke-width="12"/>
+    <circle cx="358" cy="164" r="8" fill="#1d4ed8" stroke="none"/>
+  </g>
+  <text x="256" y="412" text-anchor="middle" fill="#0b4a8b" font-family="Poppins, Arial, sans-serif" font-size="134" font-weight="800" letter-spacing="-8">SSH</text>
+</svg>
